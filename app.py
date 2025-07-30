@@ -793,5 +793,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-app.py
-app.py 표시 중입니다.
